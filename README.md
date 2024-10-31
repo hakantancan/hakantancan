@@ -1,9 +1,19 @@
-## Hi, I'm Hakan  👋
-A passionate backend developer
-## Languages and Tools I Use 🚀 
+# Merhaba 👋 ben Cihan
+Tutkulu bir arka uç ve mobil geliştiricisiyim.
+
+## Kullandığım Diller ve Araçlar
 - !C#
 - !.NET Core
-- !JavaScript
 - !Visual Studio
-- !Tensorflow
-- !Keras
+- !Swift
+- !JavaScript
+- !Java
+- !Kotlin
+- !TypeScript
+- !Node.js
+- !PostgreSQL
+- !Docker
+
+## Beni nerede bulabilirsiniz?
+- LinkedIn
+- Twitter
