@@ -1,6 +1,8 @@
 # Hi, I'm Hakan 👋
-A passionate backend developer
 
+![gif](https://github.com/hakantancan/hakantancan/blob/main/gif/coding.gif)
+
+A passionate backend developer
 ## Languages and Tools I Use 🎯
 ![c#](https://github.com/hakantancan/hakantancan/blob/main/images/c%23%23.png)
 ![VS](https://github.com/hakantancan/hakantancan/blob/main/images/vs.png)
